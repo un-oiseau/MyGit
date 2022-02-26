@@ -1,1 +1,2 @@
-alert(hello again);
+alert('hello again');
+No War!
