@@ -1,2 +1,2 @@
-alert('hello again');
-No War!
+stop
+ocean
